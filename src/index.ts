@@ -3,6 +3,7 @@ import colors from "colors";
 import commander from "commander";
 import { LOADIPHLPAPI } from "dns";
 const command = commander
+
     .version("0.1.0")
     .option("-c, --city [name]", "Add city name")
     .option("-E, --extensions [name]", "choose weather now: [base] or future:[all]")
