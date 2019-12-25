@@ -61,3 +61,7 @@ typings/
 .next 
 
 .vscode
+
+
+# node_modelues folder
+node_modelues/
